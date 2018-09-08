@@ -1,40 +1,43 @@
 artist,album,play_count
-The Doors,The Very Best of The Doors,301
+The Doors,The Very Best of The Doors,303
 Bill Withers,Notting Hill OST,300
-Red Hot Chili Peppers,Stadium Arcadium,292
-Clint Mansell,The Fountain,286
+Red Hot Chili Peppers,Stadium Arcadium,299
+Clint Mansell,The Fountain,288
 Phoenix,Wolfgang Amadeus Phoenix,246
 Two Door Cinema Club,Tourist History [Promo],243
 Andrew Belle,All Those Pretty Lights EP,231
 Coldplay,X & Y,204
+The Weeknd,Starboy,203
 Radiohead,The Best Of [Disc 1],197
 The Beatles,Love,182
 A.R. Rahman,Rang De Basanti,161
 Bill Elm and Woody Jackson,Red Dead Redemption Original Soundtrack,158
+Kings of Convenience,Riot on an Empty Street,148
 Opeth,Damnation,145
-Kings of Convenience,Riot on an Empty Street,144
-Oren Lavie,The Opposite Side of the Sea,143
-The Weeknd,Starboy,118
+Oren Lavie,The Opposite Side of the Sea,144
 The Smiths,(500) Days of Summer,111
 Two Door Cinema Club,Four Words to Stand On,110
 A.R. Rahman,Guru,110
 Zero 7,Garden State OST,103
+Two Door Cinema Club,Gameshow (Deluxe Edition),102
+Zero 7,Simple Things,102
 Norah Jones,Not Too Late,100
+Andrew Belle,Black Bear,99
+Bitter:Sweet,The Mating Game,99
 Amit Trivedi,Dev D,98
-Bitter:Sweet,The Mating Game,98
-Zero 7,Simple Things,88
 Coldplay,The Blue Room EP,87
-Two Door Cinema Club,Gameshow (Deluxe Edition),84
-Coldplay,A Head Full Of Dreams,82
+Coldplay,A Head Full Of Dreams,83
 Goo Goo Dolls,Greatest Hits Vol.1 The Singles,74
 Bob Dylan,The Best of Bob Dylan,73
 Amit Trivedi,Aisha,70
+Iron & Wine,The Shepherd's Dog,69
 Bryan Adams,Best of Me,68
 A.R. Rahman,Vinnaithaandi Varuvaaya,67
+Two Door Cinema Club,Tourist History,66
 Iron & Wine,Our Endless Numbered Days,60
 Opeth,Blackwater Park,59
-Iron & Wine,The Shepherd's Dog,57
 Thievery Corporation,Garden State OST,56
+Wildcat! Wildcat!,No Moon At All,55
 Riverside,Out Of Myself,55
 Coldplay,Parachutes,54
 Devendra Banhart,Smokey Rolls Down Thunder Canyon,54
@@ -44,21 +47,19 @@ Flunk,Morning Star,52
 Shilpa Rao & Kshitij Tarey,Dev D,51
 Iron Maiden,A Matter of Life and Death,50
 The Doors,An American Prayer,50
-Two Door Cinema Club,Tourist History,50
 The Temper Trap,(500) Days of Summer,48
 Katatonia,The Great Cold Distance,47
 K.K.,Aarya - 2,46
 Someone Still Loves You Boris Yeltsin,Broom,45
 Joe Satriani,Flying In A Blue Dream,45
 Thievery Corporation,Versions,45
-Wildcat! Wildcat!,No Moon At All,44
 Porcupine Tree,Warszawa,44
 Nirvana,MTV Unplugged in New York,42
 The Virgins,SXSW 2008 Showcasing Artists,41
 Joe Satriani,The Extremist,41
+Marian Hill,ACT ONE,40
 Shankar-Ehsaan-Loy,Karthik Calling Karthik,40
 Nine Inch Nails,The Fragile,39
-Marian Hill,ACT ONE,38
 Dream Theater,Images and Words,38
 Radiohead,In Rainbows,38
 The Weepies,Say I Am You,38
@@ -68,18 +69,17 @@ The Radio Dept.,Freddie And The Trojan Horse,35
 Foals,What Went Down,35
 Bread,Anthology of Bread,34
 Sting,Brand New Day,34
+Frou Frou,Details,34
 The Whitest Boy Alive,Dreams,34
+Two Door Cinema Club,Gameshow,34
 Feist,Let It Die,34
 Coldplay,A Rush of Blood to the Head,33
-Frou Frou,Details,33
 A.R. Rahman,Thiruda Thiruda,33
-Two Door Cinema Club,Gameshow,32
 Pearl Jam,rearviewmirror (greatest hits 1991-2003),32
 Jacek Utko,TEDTalks (audio),32
 Yochai Benkler,TEDTalks (audio),32
 Cary Brothers,Garden State,31
 Death Cab for Cutie,Narrow Stairs,31
-Andrew Belle,Black Bear,29
 The Shins,Wincing the Night Away,29
 Frou Frou,Garden State OST,28
 Kings of Convenience,I'd Rather Dance with You EP,28
@@ -89,23 +89,29 @@ José González,Veneer,28
 Coldplay,Garden State OST,27
 65daysofstatic,No Man's Sky: Music for an Infinite Universe (Original Soundtrack),27
 Dan Ariely,TEDTalks (audio),27
+Anirudh Ravichander,Agnyaathavaasi (Original Motion Picture Soundtrack) - EP,26
 The Doors,The Best of the Doors (disc 1),26
+Gustavo Santaolalla,The Last of Us (Video Game Soundtrack),26
+Two Door Cinema Club,Beacon,25
 Coldplay,Castles,25
 Norah Jones,Come Away with Me,25
 hindi pop,Fuzon-sagar,25
+hoops,Routines,25
 Alexi Murdoch,Time Without Consequence,25
+Phoenix,Wolfgang Amadeus Phoenix (Deluxe Version),25
 Novembre,Materia,24
-hoops,Routines,24
-Gustavo Santaolalla,The Last of Us (Video Game Soundtrack),24
+The Shins,"Oh, Inverted World",24
+Darren Korb,Transistor (Original Soundtrack),24
 Green Day,21st Century Breakdown,23
 David Bowie,"Bowie at the Beeb - The Best of the BBC Radio Sessions, 1968-1972",23
 Joe Satriani,Crystal Planet,23
 Mohit Chauhan,Dilli 6,23
 Interpol,Interpol,23
-The Shins,"Oh, Inverted World",23
 "A. R. Rahman, Sid Sriram & Aaryan Dinesh Kanagaratnam",Thalli Pogathey (From Achcham Yenbadhu Madamaiyada) - Single,23
 Sondre Lerche,Dan In Real Life (Original Motion Picture Soundtrack),22
+Interpol,Marauder,22
 Dream Theater,Six Degrees Of Inner Turbule..,22
+Two Fingers,Stunt Rhythms (Bonus Track Version),22
 Iron & Wine,The Creek Drank the Cradle,22
 "A. R. Rahman, Benny & Tanvi",Dilli 6,21
 "Blaaze, Benny, Tanvi, Viviane & Claire",Dilli 6,21
@@ -117,10 +123,10 @@ KT Tunstall,Eye to the Telescope,20
 The Raveonettes,In and Out of Control,20
 Led Zeppelin,Mothership [Disc 2],20
 Radiohead,The Best Of,20
-Darren Korb,Transistor (Original Soundtrack),20
 Led Zeppelin,Mothership [Disc 1],19
 Thomas Dybdahl,Stray Dogs,19
 Iron Maiden,The Essential Iron Maiden,19
+The Killers,Wonderful Wonderful (Deluxe),19
 Jethro Tull,Aqualung,18
 The Weeknd,Beauty Behind the Madness,18
 A.R. Rahman,Bombay,18
@@ -129,34 +135,39 @@ A.R. Rahman,Pray For Me Brother,18
 A.R. Rahman,Rangeela,18
 Renny Gleeson,TEDTalks (audio),18
 Hindi,Wake Up Sid,18
-The Killers,Wonderful Wonderful (Deluxe),18
-Two Door Cinema Club,Beacon,17
 Motörhead,Brütal Legend,17
 Franz Ferdinand,Franz Ferdinand,17
+Foals,Holy Fire,17
 Röyksopp,Melody A.M.,17
 Siddharth,Oy! (2009),17
 Teitur,Poetry & Aeroplanes,17
 Shankar-Ehsaan-Loy,Dil Chahta Hai,16
 Anushka Manchanda,Dum Maro Dum (2011),16
-Foals,Holy Fire,16
 Blue States,Nothing Changes Under the Sun,16
 Fufanu,Sports,16
+Pearl Jam,Ten,16
 Porcupine Tree,XMII,16
+Flume,Flume,15
 The Shins,Garden State OST,15
 Vishal Dadlani -  www.DesiUpdate.com,Kurbaan,15
 Telugu,Mirapakay,15
 Coconut Records,Nighttiming,15
-Pearl Jam,Ten,15
 Cary Brothers,Who You Are,15
+Radiohead,A Moon Shaped Pool,14
+Phoenix,Bankrupt!,14
 Advaita,Drops Of Earth: Best Of Advaita,14
 Nightmares on Wax,In A Space Outta Sound,14
 Cymbals,Light In Your Mind,14
 Liquid Tension Experiment,Liquid Tension Experiment,14
 Nirvana,Nevermind,14
+Jane's Addiction,Up from the Catacombs: the Best of Jane's Addiction,14
+Jimi Hendrix,Both Sides Of The Sky,13
+Sia,Colour the Small One,13
 Sondre Lerche,Faces Down,13
 Adam Kempenaar & Matty Robinson,Filmspotting,13
 The Weepies,Hideaway,13
 Led Zeppelin,In Through The Out Door (Deluxe Edition),13
+Roo Panes,Little Giant,13
 A.R. Rahman,May Madham,13
 Arcade Fire,Neon Bible,13
 Aerosmith,"O, Yeah! Ultimate Aerosmith Hits",13
@@ -169,7 +180,6 @@ Katatonia,Viva Emptiness,13
 The Minders,A House Full Of Friends,12
 Vince Staples,Big Fish Theory,12
 Riot,Brütal Legend,12
-Sia,Colour the Small One,12
 Elliot Root,Conjure,12
 Bitter:Sweet,Drama,12
 Turin Brakes,Essential Bands,12
@@ -180,22 +190,12 @@ The Apples in Stereo,New Magnetic Wonder,12
 Air,Premiers Symptomes,12
 A.R. Rahman,Raavan,12
 José González,Red Dead Redemption Original Soundtrack,12
+Dream Theater,Six Degrees of Inner Turbulence,12
 Two Door Cinema Club,Sleep Alone,12
+Joe Satriani,What Happens Next,12
+Sir Sly,You Haunt Me,12
 Hindi,Aisha,11
 Yeasayer,Amen & Goodbye,11
 Circulatory System,Circulatory System,11
 Bony Chakravarthy,Dev D,11
 Goo Goo Dolls,Dizzy Up the Girl,11
-Colin Hay,Garden State,11
-Radiohead,Hail to the Thief (live 2002),11
-Keane,Hopes and Fears,11
-José González,In Our Nature,11
-John Denver,John Denver - Definitive All-Time Greatest Hits,11
-Preetam,Life In A Metro,11
-Symphony X,Paradise Lost,11
-Ashtar Command,Red Dead Redemption Original Soundtrack,11
-A.R. Rahman,Roja,11
-Dream Theater,Six Degrees of Inner Turbulence,11
-The Killers,The Man - Single,11
-Thievery Corporation,The Richest Man in Babylon,11
-Röyksopp,The Understanding,11

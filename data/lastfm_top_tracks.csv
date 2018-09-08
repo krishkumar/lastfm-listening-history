@@ -1,83 +1,83 @@
 artist,track,play_count
 Zero 7,In the Waiting Line,633
 Bill Withers,Ain't No Sunshine,303
-Frou Frou,Let Go,279
+Frou Frou,Let Go,280
 Andrew Belle,All Those Pretty Lights,237
-Clint Mansell,Death Is the Road to Awe,190
-Oren Lavie,Her Morning Elegance,141
+Clint Mansell,Death Is the Road to Awe,195
+Oren Lavie,Her Morning Elegance,142
 Thievery Corporation,Lebanese Blonde,138
 Gustavo Santaolalla,Chivo Groove,134
 Gustavo Santaolalla,Can We Mix the Unmixable? (remix),118
 Coldplay,Don't Panic,102
-Phoenix,Girlfriend,83
+Phoenix,Girlfriend,85
 The Smiths,There Is a Light That Never Goes Out,73
 Radiohead,There There,72
 A.R. Rahman,Athiradee Kaalam,71
-Radiohead,High and Dry,69
+Radiohead,High and Dry,70
 Opeth,Hope Leaves,69
 Devendra Banhart,Carmensita,68
-Two Door Cinema Club,Undercover Martyn,66
+Two Door Cinema Club,Undercover Martyn,68
 Coldplay,Crest of Waves,65
 Cary Brothers,Blue Eyes,64
 Iron & Wine,Naked As We Came,64
 The Virgins,Rich Girls,62
+The Weeknd,Starboy (feat. Daft Punk),60
 Amit Trivedi,Suno Aisha,60
 The Shins,New Slang,59
 Phoenix,Lasso,57
 Amit Trivedi,Nayan Tarse [Dev D],55
-The Weeknd,Starboy (feat. Daft Punk),54
 Papon [www.DJMaza.Com],Jiyein Kyun [www.DJMaza.Com],53
 Aerosmith,Sweet Emotion,53
 A.R. Rahman,Vaada Vaada Vanki,53
 Shilpa Rao & Kshitij Tarey,Dhol Yaara Dhol [Dev D],51
+Wildcat! Wildcat!,Sentimental,51
 A.R. Rahman,Vinnaithaandi Varuvaayaa,51
 Preetam,Kya Mujhe Pyaar Hai (remix),50
+Bitter:Sweet,Overdue,50
+Two Door Cinema Club,What You Know,50
 A.R. Rahman,Oru Kudai Sunlight,49
-Bitter:Sweet,Overdue,49
 Rubies,Room Without A Key,49
 A.R. Rahman,Sooriyanum Santhira,48
 The Temper Trap,Sweet Disposition,48
-Two Door Cinema Club,What You Know,47
 K.K.,Aarya - 2 .02. Uppenantha,46
 Gustavo Santaolalla,"When Our Wings Are Cut, Can We Still Fly? (Performed By The Kronos Quartet)",46
+Two Door Cinema Club,Cigarettes in the Theatre,45
 Katatonia,Follower,44
 A.R. Rahman,New York,44
 Thievery Corporation,Strange Days,44
 The Doors,Ghost Song,43
-Two Door Cinema Club,Cigarettes in the Theatre,42
+Phoenix,1901,42
 Aerosmith,Dream On,42
+The Doors,Roadhouse Blues,42
 Simon & Garfunkel,The Only Living Boy in New York,42
 Coldplay,Things I Don't Understand,42
-Phoenix,1901,40
+Two Door Cinema Club,This Is the Life,41
 Riverside,I Believe,40
 The Hollies,Long Cool Woman (in a Black Dress),40
-Wildcat! Wildcat!,Sentimental,40
 Nine Inch Nails,Just Like You Imagined,39
 Foals,Mountain At My Gates,39
-The Doors,Roadhouse Blues,39
 A.R. Rahman,Sahaana Saaral,39
-Two Door Cinema Club,This Is the Life,39
 Aerosmith,Walk This Way,39
+Marian Hill,Down,38
 The Smiths,"Please, Please, Please, Let Me Get What I Want",38
 A.R. Rahman,Sahara Pokkal Poo,38
 Norah Jones,Thinking About You,38
 A.R. Rahman,Vaa Ji Vaa Ji,38
+Phoenix,Fences,37
 Red Hot Chili Peppers,Hey,37
 Cary Brothers,Ride,37
-Marian Hill,Down,36
-Phoenix,Fences,36
+Two Door Cinema Club,Something Good Can Work,37
+Two Door Cinema Club,Come Back Home,36
 Earth Wind & Fire / Fatboy Slim,September/The Joker (Shinichi Osawa Remix),36
 Coldplay,Such a Rush,36
 The Radio Dept.,Freddie And The Trojan Horse,35
 Shankar Ehsan Loy,Mitwa,35
-Two Door Cinema Club,Something Good Can Work,35
+Two Door Cinema Club,Ordinary,35
 Shankar-Ehsaan-Loy,Uff Teri Adaa,35
 The Shins,Caring Is Creepy,34
-Two Door Cinema Club,Come Back Home,34
+Phoenix,Lisztomania,34
 A.R. Rahman,Munbe Va,34
 Flunk,Spring to Kingdom Come,34
-Two Door Cinema Club,Ordinary,33
-Phoenix,Lisztomania,32
 Jacek Utko,TEDTalks : Can design save the newspaper? - Jacek Utko (2009),32
 Yochai Benkler,TEDTalks : Open-source economics - Yochai Benkler (2005),32
 Coldplay,Adventure Of A Lifetime,31
@@ -94,11 +94,11 @@ Nick Drake,One of These Things First,29
 Control Machete,Sí Señor,29
 Red Hot Chili Peppers,We Believe,29
 Vidyasagar,Yaar Yaar Sivam,29
+Phoenix,Armistice,28
 Porcupine Tree,Slave Called Shiver,28
 Red Hot Chili Peppers,Snow (Hey Oh),28
 Jal,Aadat,27
 Dan Ariely,"TEDTalks : Dan Ariely asks, Are we in control of our own decisions?  - Dan Ariely (2008)",27
-Phoenix,Armistice,26
 Titán,Corazón,26
 Regina Spektor,Fidelity,26
 Bitter:Sweet,Heaven,26
@@ -111,10 +111,10 @@ hindi pop,20100923-0634-[www.flv2mp3.com],25
 Norah Jones,Chasing Pirates,25
 Red Hot Chili Peppers,Dani California,25
 Feist,One Evening,25
+hoops,Rules,25
 Norah Jones,Sinkin' Soon,25
 Interpol,All Fired Up,24
 Someone Still Loves You Boris Yeltsin,Gwyneth,24
-hoops,Rules,24
 65daysofstatic,Supermoon,24
 The Who,Eminence Front,23
 Clint Mansell,First Snow,23
@@ -126,11 +126,12 @@ Damien Rice,The Blowers Daughter,23
 Opeth,Windowpane,23
 "Ryuichi Sakamoto, Jaques Morelenbaum & Everton Nelson / Gustavo Santaolalla",Bibo no Aozora/Endless Flight/Babel,22
 Coldplay,High Speed,22
+Coldplay,See You Soon,22
 The Beatles,All You Need Is Love,21
 "Blaaze, Benny, Tanvi, Viviane & Claire",Dilli-6 [Dilli 6],21
 Led Zeppelin,"Hey, Hey What Can I Do",21
+Two Door Cinema Club,I Can Talk,21
 "A. R. Rahman, Benny & Tanvi",Rehna Tu [Dilli 6],21
-Coldplay,See You Soon,21
 Coldplay,The Scientist,21
 Coldplay,A Message,20
 Coldplay,Bigger Stronger,20
@@ -145,7 +146,7 @@ Ryan Adams,Wonderwall (Acoustic),20
 Two Door Cinema Club,Do You Want It All?,19
 Two Door Cinema Club,"Eat That Up, It's Good for You",19
 Cary Brothers,Ghost Town,19
-Two Door Cinema Club,I Can Talk,19
+Kings of Convenience,I'd Rather Dance With You,19
 Pearl Jam,Jeremy,19
 Preetam,Kya Mujhe Pyaar Hai,19
 A.R. Rahman,Paatshala,19
@@ -186,16 +187,15 @@ Opeth,Blackwater Park,16
 The Whitest Boy Alive,Burning,16
 Afterlife,Cry (Brown Bear Mix),16
 Bill Elm and Woody Jackson,Horseplay,16
-Kings of Convenience,I'd Rather Dance With You,16
 Two Door Cinema Club,Kids,16
 Fufanu,Liability,16
 Radiohead,Lucky,16
 Anushka Manchanda,Mit Jaaye Gham (Dum Maaro Dum) [www.DJMaza.Com],16
+Radiohead,Paranoid Android,16
 Porcupine Tree,Pure Narcotic,16
 Ryan Adams,The Last Dance,16
+The Killers,The Man,16
 Norah Jones,Don't Know Why,15
 A.R. Rahman,Ek Lo Ek Muft,15
 Kings of Convenience,Know-How,15
 Vishal Dadlani -  www.DesiUpdate.com,Kurbaan Hua -  www.DesiUpdate.com,15
-Coldplay,Shiver,15
-Clint Mansell,Summer: Crimin' and Dealin',15
